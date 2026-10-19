@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.azkar.counter'
+    app/build.gradle 'com.azkar.counter'
     compileSdk 34
 
     defaultConfig {
